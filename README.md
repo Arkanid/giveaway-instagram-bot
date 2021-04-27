@@ -4,6 +4,7 @@ A bot for Instagram giveaways.
 You need Selenium and Chromium Webdriver.
 If you want use that tool with another Webdrivers
 you need change "webdriver.Chrome" at line 7.
+Also you need download browser's webdriver what you want.
 
 Firstly you need update secrets.py.
 Write your username in username,
